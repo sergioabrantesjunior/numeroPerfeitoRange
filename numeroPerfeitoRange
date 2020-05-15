@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2162
-# Prove: NumeroPerfeitoUnico
+# Prove: NumeroPerfeitoRange
 # Descricao Curta: Verifica se número informado é perfeito
 # Descrição Longa: Verifica se número informado é perfeito
 # Frequencia: Sob demanda
